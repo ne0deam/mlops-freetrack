@@ -1,2 +1,5 @@
 /__pycache__/
 .mlops-freetrack-venv/
+model.pkl
+data.csv
+dataset.csv
