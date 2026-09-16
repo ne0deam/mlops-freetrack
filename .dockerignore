@@ -1,0 +1,11 @@
+.git
+.dockerignore
+.mlops-freetrack-venv
+__pycache__
+*.pyc
+.gitignore
+README.md
+data.csv
+dataset.csv
+train_and_save_model.py
+model.pkl
